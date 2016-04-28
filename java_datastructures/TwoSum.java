@@ -1,5 +1,3 @@
-package datastructure_coding;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.HashMap;
