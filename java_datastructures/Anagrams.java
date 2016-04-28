@@ -9,7 +9,8 @@ import java.util.HashMap;
  *
  */
 public class Anagrams {
-public ArrayList<ArrayList<Integer>> anagrams(final List<String> a) {
+    
+    public ArrayList<ArrayList<Integer>> anagrams(final List<String> a) {
         
         ArrayList<ArrayList<Integer>> result = new ArrayList<ArrayList<Integer>>();
         HashMap<String, ArrayList<Integer>> hm = new HashMap<String, ArrayList<Integer>>();
