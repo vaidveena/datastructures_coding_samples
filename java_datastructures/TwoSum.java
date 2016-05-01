@@ -4,7 +4,7 @@ import java.util.HashMap;
 
 /**
  * @author vvaidyanathan
- *
+ * Given a list of integers, find a pair which sums up to given input b
  */
 public class TwoSum {
 

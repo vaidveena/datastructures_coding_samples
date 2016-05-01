@@ -1,5 +1,10 @@
 package datastructure_coding;
 
+/**
+ * @author vvaidyanathan
+ * Given a 2D array, print the elements in spiral order
+ */
+
 public class Traverse2DArray {
     
      public static final int ROW_SIZE = 4;

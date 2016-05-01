@@ -1,5 +1,10 @@
 package datastructure_coding;
 
+/**
+ * @author vvaidyanathan
+ * Array implementation of stack
+ */
+
 public class Stacks {
     
     private final int CAPACITY = 100;

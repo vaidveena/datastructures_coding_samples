@@ -6,7 +6,7 @@ import java.util.HashMap;
 
 /**
  * @author vvaidyanathan
- *
+ * Given a list of strings, group anagrams
  */
 public class Anagrams {
     
@@ -22,13 +22,11 @@ public class Anagrams {
             
             String sorted = new String(arr);
             
-
             if (hm.containsKey(sorted))
             {
                 ArrayList<Integer> list = hm.get(sorted);
                 list.add(i);
                 hm.put(sorted, list);
-                
             }
             else
             {

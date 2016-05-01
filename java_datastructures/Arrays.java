@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * @author vvaidyanathan
- *
+ * Array - Find maximum sum  
  */
 public class Arrays {
     public int maxSubArray(final List<Integer> a) {

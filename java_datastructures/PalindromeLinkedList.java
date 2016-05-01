@@ -1,5 +1,11 @@
 package datastructure_coding;
 
+/**
+ * @author vvaidyanathan
+ * Given an input linked list, verify it its a palindrome.
+ * find the middle of the linked list, reverse the second half, compare first and second half
+ */
+
 public class PalindromeLinkedList {
     
   public class ListNode
@@ -15,10 +21,7 @@ public class PalindromeLinkedList {
   }
     
   public int lPalin(ListNode A) {
-        
-        // find the middle of the linked list
-        // reverse the second half
-        // compare first and second half
+
         ListNode slow = A;
         ListNode fast = A;
         

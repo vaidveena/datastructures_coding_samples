@@ -2,7 +2,7 @@ package datastructure_coding;
 
 /**
  * @author vvaidyanathan
- *
+ * Reverse a string
  */
 public class ReverseString {
     
